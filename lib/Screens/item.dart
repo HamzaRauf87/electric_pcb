@@ -1,5 +1,4 @@
 // stores ExpansionPanel state information
-import 'package:flutter/material.dart';
 
 class Item {
   Item({
